@@ -20,8 +20,8 @@ Install redplanetgreenpower by:
 Contribute
 ----------
 
-- Issue Tracker: [davidbradway/redplanetgreenpower/issues](https://davidbradway/redplanetgreenpower/issues)
-- Source Code: [davidbradway/redplanetgreenpower/](https://github.com/davidbradway/redplanetgreenpower)
+- Issue Tracker: [github.com/davidbradway/redplanetgreenpower/issues](https://github.com/davidbradway/redplanetgreenpower/issues)
+- Source Code: [github.com/davidbradway/redplanetgreenpower/](https://github.com/davidbradway/redplanetgreenpower)
 
 Support
 -------
