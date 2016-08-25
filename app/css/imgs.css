@@ -1,120 +1,140 @@
+.sprite {
+    background: url('../assets/appliancesprites100x.png') no-repeat;
+}
+
 .house {
-    background: url('../assets/appliancesprites100x.png') no-repeat -7px -11px;
+    background-position: -7px -11px;
     width: 86px;
     height: 79px;
 }
 
 .socket {
-    background: url('../assets/appliancesprites100x.png') no-repeat -127px -8px;
+    background-position: -127px -8px;
     width: 45px;
     height: 85px;
 }
 
 .lamp {
-    background: url('../assets/appliancesprites100x.png') no-repeat -216px -11px;
+    background-position: -216px -11px;
     width: 67px;
     height: 78px;
 }
 
 .fridge {
-    background: url('../assets/appliancesprites100x.png') no-repeat -28px -104px;
+    background-position: -28px -104px;
     width: 43px;
     height: 90px;
 }
 
 .temp {
-    background: url('../assets/appliancesprites100x.png') no-repeat -111px -106px;
+    background-position: -111px -106px;
     width: 86px;
     height: 88px;
 }
 
 .shower {
-    background: url('../assets/appliancesprites100x.png') no-repeat -209px -113px;
+    background-position: -209px -113px;
     width: 80px;
     height: 73px;
 }
 
 .dryer {
-    background: url('../assets/appliancesprites100x.png') no-repeat -21px -211px;
+    background-position: -21px -211px;
     width: 57px;
     height: 79px;
 }
 
 .oven {
-    background: url('../assets/appliancesprites100x.png') no-repeat -122px -212px;
+    background-position: -122px -212px;
     width: 55px;
     height: 78px;
 }
 
 .faucet {
-    background: url('../assets/appliancesprites100x.png') no-repeat -221px -218px;
+    background-position: -221px -218px;
     width: 57px;
     height: 66px;
 }
 
 .pool {
-    background: url('../assets/appliancesprites100x.png') no-repeat -8px -320px;
+    background-position: -8px -320px;
     width: 83px;
     height: 56px;
 }
 
 .hottub {
-    background: url('../assets/appliancesprites100x.png') no-repeat -112px -316px;
+    background-position: -112px -316px;
     width: 75px;
     height: 63px;
 }
 
 .ecar {
-    background: url('../assets/appliancesprites100x.png') no-repeat -206px -326px;
+    background-position: -206px -326px;
     width: 87px;
     height: 43px;
 }
 
 .cfl {
-    background: url('../assets/appliancesprites100x.png') no-repeat -32px -413px;
+    background-position: -32px -413px;
     width: 35px;
     height: 75px;
 }
 
 .dishwasher {
-    background: url('../assets/appliancesprites100x.png') no-repeat -116px -406px;
+    background-position: -116px -406px;
     width: 67px;
     height: 89px;
 }
 
-
 .computer {
-    background: url('../assets/appliancesprites100x.png') no-repeat -208px -419px;
+    background-position: -208px -419px;
     width: 83px;
     height: 63px;
 }
 
 .raincloud {
-    background: url('../assets/appliancesprites100x.png') no-repeat -6px -513px;
+    background-position: -6px -513px;
     width: 88px;
     height: 73px;
 }
 .aquarium {
-    background: url('../assets/appliancesprites100x.png') no-repeat -106px -524px;
+    background-position: -106px -524px;
     width: 87px;
     height: 51px;
 }
 
 .fountain {
-    background: url('../assets/appliancesprites100x.png') no-repeat -220px -511px;
+    background-position: -220px -511px;
     width: 59px;
     height: 77px;
 }
 
 .microscope {
-    background: url('../assets/appliancesprites100x.png') no-repeat -22px -606px;
+    background-position: -22px -606px;
     width: 55px;
     height: 85px;
 }
 
 .plug {
-    background: url('../assets/appliancesprites100x.png') no-repeat -22px -606px;
-    width: 55px;
-    height: 85px;
+    background-position: -104px -624px;
+    width: 91px;
+    height: 50px;
 }
 
+.solar {
+    background-position: -7px -712px;
+    width: 85px;
+    height: 75px;
+}
+
+.turbine {
+    background-position: -7px -712px;
+    width: 85px;
+    height: 75px;
+}
+
+.turbine {
+    background-position: -110px -715px;
+    width: 79px;
+    height: 69px;
+}
